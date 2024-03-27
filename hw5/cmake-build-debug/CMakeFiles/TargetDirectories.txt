@@ -1,0 +1,3 @@
+/Users/ninabaffo/engr2730fall2022/nbaffo/homework/hw5/cmake-build-debug/CMakeFiles/Bejeweled.dir
+/Users/ninabaffo/engr2730fall2022/nbaffo/homework/hw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ninabaffo/engr2730fall2022/nbaffo/homework/hw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

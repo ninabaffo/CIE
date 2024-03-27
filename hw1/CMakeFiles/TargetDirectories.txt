@@ -1,0 +1,3 @@
+/Users/ninabaffo/CIE/homework1/CMakeFiles/homework1.dir
+/Users/ninabaffo/CIE/homework1/CMakeFiles/edit_cache.dir
+/Users/ninabaffo/CIE/homework1/CMakeFiles/rebuild_cache.dir

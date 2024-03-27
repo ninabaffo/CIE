@@ -1,0 +1,3 @@
+/Users/ninabaffo/CIE/hw4/CMakeFiles/Bejeweled.dir
+/Users/ninabaffo/CIE/hw4/CMakeFiles/edit_cache.dir
+/Users/ninabaffo/CIE/hw4/CMakeFiles/rebuild_cache.dir
