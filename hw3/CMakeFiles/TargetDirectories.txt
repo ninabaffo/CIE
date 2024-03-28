@@ -1,0 +1,3 @@
+/Users/ninabaffo/CIE/hw3/CMakeFiles/hw3.dir
+/Users/ninabaffo/CIE/hw3/CMakeFiles/edit_cache.dir
+/Users/ninabaffo/CIE/hw3/CMakeFiles/rebuild_cache.dir

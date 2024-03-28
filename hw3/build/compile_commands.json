@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ninabaffo/CIE/hw3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/hw3.dir/main.cpp.o -c /Users/ninabaffo/CIE/hw3/main.cpp",
+  "file": "/Users/ninabaffo/CIE/hw3/main.cpp",
+  "output": "CMakeFiles/hw3.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/ninabaffo/CIE/hw3/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/hw3.dir/Wordle.cpp.o -c /Users/ninabaffo/CIE/hw3/Wordle.cpp",
+  "file": "/Users/ninabaffo/CIE/hw3/Wordle.cpp",
+  "output": "CMakeFiles/hw3.dir/Wordle.cpp.o"
+}
+]
